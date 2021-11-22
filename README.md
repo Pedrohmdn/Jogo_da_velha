@@ -11,4 +11,4 @@ Johnny Roque Carvalho,
 Pablo da Silva Expedito Xavier,
 Pedro Henrique Macedo do Nascimento
 
-Site hospedado na AWS: http://projeto.jogo-da-velha.s3-website-us-east-1.amazonaws.com/
+Projeto hospedado na AWS: http://projeto.jogo-da-velha.s3-website-us-east-1.amazonaws.com/
