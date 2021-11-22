@@ -1,7 +1,7 @@
 # Jogo_da_velha
 Projeto prático de programação 
 
-Membros do Grupo
+Membros do Grupo:
 
 Arthur Aparecido de Carvalho,
 Caio de Moura Borges,
